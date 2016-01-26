@@ -6,3 +6,5 @@
 *.iml
 .idea/
 build/
+library/build/
+sample/build/
